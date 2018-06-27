@@ -1,0 +1,11 @@
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.LogicaNegocio.dll
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.LogicaNegocio.pdb
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.Entidades.dll
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.Repositorio.dll
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.Entidades.pdb
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\SGER.Repositorio.pdb
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\obj\Debug\SGER.LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\obj\Debug\SGER.LogicaNegocio.dll
+C:\Users\DEY\Documents\SGER\SGER.LogicaNegocio\obj\Debug\SGER.LogicaNegocio.pdb

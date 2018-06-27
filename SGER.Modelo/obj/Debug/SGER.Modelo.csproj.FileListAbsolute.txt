@@ -1,0 +1,10 @@
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\SGER.Modelo.dll.config
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\SGER.Modelo.dll
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\SGER.Modelo.pdb
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\EntityFramework.dll
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\EntityFramework.xml
+C:\Users\DEY\Documents\SGER\SGER.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEY\Documents\SGER\SGER.Modelo\obj\Debug\SGER.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\DEY\Documents\SGER\SGER.Modelo\obj\Debug\SGER.Modelo.dll
+C:\Users\DEY\Documents\SGER\SGER.Modelo\obj\Debug\SGER.Modelo.pdb

@@ -57,7 +57,7 @@
             // BtonCancelar
             // 
             this.BtonCancelar.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
-            this.BtonCancelar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(68)))), ((int)(((byte)(68)))));
+            this.BtonCancelar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.BtonCancelar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BtonCancelar.BorderRadius = 0;
             this.BtonCancelar.ButtonText = "Cancelar";
@@ -77,7 +77,7 @@
             this.BtonCancelar.IsTab = false;
             this.BtonCancelar.Location = new System.Drawing.Point(123, 323);
             this.BtonCancelar.Name = "BtonCancelar";
-            this.BtonCancelar.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(68)))), ((int)(((byte)(68)))));
+            this.BtonCancelar.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.BtonCancelar.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(53)))), ((int)(((byte)(53)))));
             this.BtonCancelar.OnHoverTextColor = System.Drawing.Color.White;
             this.BtonCancelar.selected = false;
@@ -99,7 +99,7 @@
             // BtonAcept
             // 
             this.BtonAcept.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
-            this.BtonAcept.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(190)))), ((int)(((byte)(72)))));
+            this.BtonAcept.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(211)))), ((int)(((byte)(95)))));
             this.BtonAcept.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BtonAcept.BorderRadius = 0;
             this.BtonAcept.ButtonText = "Aceptar";
@@ -119,7 +119,7 @@
             this.BtonAcept.IsTab = false;
             this.BtonAcept.Location = new System.Drawing.Point(123, 258);
             this.BtonAcept.Name = "BtonAcept";
-            this.BtonAcept.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(190)))), ((int)(((byte)(72)))));
+            this.BtonAcept.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(211)))), ((int)(((byte)(95)))));
             this.BtonAcept.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
             this.BtonAcept.OnHoverTextColor = System.Drawing.Color.White;
             this.BtonAcept.selected = false;
@@ -160,6 +160,7 @@
             this.Controls.Add(this.txtPassword);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form_Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form_Login";
             this.ResumeLayout(false);
             this.PerformLayout();

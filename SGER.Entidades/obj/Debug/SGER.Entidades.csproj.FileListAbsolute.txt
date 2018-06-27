@@ -1,0 +1,9 @@
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\SGER.Entidades.dll.config
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\SGER.Entidades.dll
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\SGER.Entidades.pdb
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\DEY\Documents\SGER\SGER.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEY\Documents\SGER\SGER.Entidades\obj\Debug\SGER.Entidades.dll
+C:\Users\DEY\Documents\SGER\SGER.Entidades\obj\Debug\SGER.Entidades.pdb
