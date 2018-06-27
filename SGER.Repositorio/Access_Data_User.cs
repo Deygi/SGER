@@ -20,7 +20,18 @@ namespace SGER.Repositorio
 
         public Usuario query(int cod)
         {
-            throw new NotImplementedException();
+            try
+            {
+                using (SGEBDEntidades context=new SGEBDEntidades())
+                {
+                  return context.Usuario.SingleOrDefault(x => x.idUser == cod);
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public bool register(Usuario entidad)

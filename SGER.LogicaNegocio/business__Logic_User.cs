@@ -7,29 +7,29 @@ using SGER.Entidades;
 using SGER.Repositorio;
 namespace SGER.LogicaNegocio
 {
-    public class business__Logic_User : iOperaciones<Ubigeo>
+    public class business__Logic_User : iOperaciones<Usuario>
     {
         public bool delete(int cod)
         {
             throw new NotImplementedException();
         }
 
-        public List<Ubigeo> ListAll()
+        public List<Usuario> ListAll()
         {
             throw new NotImplementedException();
         }
 
-        public Ubigeo query(int cod)
+        public Usuario query(int cod)
+        {
+            return new Access_Data_User().query(cod);
+        }
+
+        public bool register(Usuario entidad)
         {
             throw new NotImplementedException();
         }
 
-        public bool register(Ubigeo entidad)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool update(Ubigeo entidad)
+        public bool update(Usuario entidad)
         {
             throw new NotImplementedException();
         }

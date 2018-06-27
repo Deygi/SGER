@@ -17,3 +17,11 @@ C:\Users\DEY\Documents\SGER\SGER.Presentacion\obj\Debug\SGER.Presentacion.Proper
 C:\Users\DEY\Documents\SGER\SGER.Presentacion\obj\Debug\SGER.Presentacion.csproj.GenerateResource.Cache
 C:\Users\DEY\Documents\SGER\SGER.Presentacion\obj\Debug\SGER.Presentacion.exe
 C:\Users\DEY\Documents\SGER\SGER.Presentacion\obj\Debug\SGER.Presentacion.pdb
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.Entidades.dll
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.LogicaNegocio.dll
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.Repositorio.dll
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.Entidades.pdb
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.LogicaNegocio.pdb
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\DEY\Documents\SGER\SGER.Presentacion\bin\Debug\SGER.Repositorio.pdb

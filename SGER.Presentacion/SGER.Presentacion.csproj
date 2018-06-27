@@ -202,6 +202,16 @@
   <ItemGroup>
     <None Include="Resources\diagram %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SGER.Entidades\SGER.Entidades.csproj">
+      <Project>{8c052f2f-fb00-4460-8792-0a2e7ef1c31f}</Project>
+      <Name>SGER.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SGER.LogicaNegocio\SGER.LogicaNegocio.csproj">
+      <Project>{dfd93ae0-7da3-48f4-9f16-a30bd5540862}</Project>
+      <Name>SGER.LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

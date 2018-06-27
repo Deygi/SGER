@@ -87,6 +87,7 @@
             this.BtonCancelar.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.BtonCancelar.Textcolor = System.Drawing.Color.White;
             this.BtonCancelar.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtonCancelar.Click += new System.EventHandler(this.BtonCancelar_Click_1);
             // 
             // panel1
             // 
@@ -129,6 +130,7 @@
             this.BtonAcept.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.BtonAcept.Textcolor = System.Drawing.Color.White;
             this.BtonAcept.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtonAcept.Click += new System.EventHandler(this.BtonAcept_Click_1);
             // 
             // txtUser
             // 

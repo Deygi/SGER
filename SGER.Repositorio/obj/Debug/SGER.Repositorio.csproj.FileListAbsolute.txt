@@ -1,7 +1,6 @@
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\SGER.Repositorio.dll
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\SGER.Repositorio.pdb
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\SGER.Entidades.dll
-C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\EntityFramework.dll
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\SGER.Entidades.pdb
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\bin\Debug\EntityFramework.xml
 C:\Users\DEY\Documents\SGER\SGER.Repositorio\obj\Debug\SGER.Repositorio.csprojResolveAssemblyReference.cache
